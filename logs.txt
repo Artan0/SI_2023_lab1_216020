@@ -1,0 +1,44 @@
+C:\Users\Lenovo\Desktop\SI_2023_lab1_216020>git log --all
+commit a6064e56d3c15c15b3a45d64271882ce424b3a1d (HEAD -> master, bug3)
+Merge: 77b1c3b d3fcb80
+Author: Artan Bayram <artan.bayram@technoperia.com>
+Date:   Mon Mar 27 17:52:01 2023 +0200
+
+    Merge branch 'bug3'
+
+commit 77b1c3b76013232e4ed5fc35f0a8cc471ca8e9c7
+Merge: 2c03553 63a44e2
+Author: Artan Bayram <artan.bayram@technoperia.com>
+Date:   Mon Mar 27 17:49:00 2023 +0200
+
+    Merge branch 'bug2'
+
+commit d3fcb805f8070f5ae263169b029145de40e6003b (origin/bug3)
+Author: Artan Bayram <artan.bayram@technoperia.com>
+Date:   Mon Mar 27 17:41:54 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 63a44e2608b614599dec71c4a3e7733c74a77c76 (origin/bug2, bug2)
+Author: Artan Bayram <artan.bayram@technoperia.com>
+Date:   Mon Mar 27 17:39:05 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 2c03553028134b30f0363f97f8d13674e613aa73 (origin/bug1, bug1)
+Author: Artan Bayram <artan.bayram@technoperia.com>
+Date:   Mon Mar 27 17:34:53 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 2ab87d6263e98f6c506667a9fd9166e8d30e4e9c (origin/master)
+Author: Artan Bayram <artan.bayram@technoperia.com>
+Date:   Mon Mar 27 17:25:28 2023 +0200
+
+    Add java class
+
+commit 0b6b60b808e80fbd4cfbfc97bc8a75d0566c02fe
+Author: Artan Bayram <artan.bayram@technoperia.com>
+Date:   Mon Mar 27 17:18:26 2023 +0200
+
+    Initial commit
